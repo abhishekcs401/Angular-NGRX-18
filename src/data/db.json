@@ -1,0 +1,54 @@
+{
+  "associate": [
+    {
+      "id": "0",
+      "name": "kusum",
+      "email": "kusum@gmail.com",
+      "phone": "445777",
+      "associategroup": "level1",
+      "address": "vhvhjvj",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "1",
+      "name": "kusum mishra",
+      "email": "kusum@gmail.com",
+      "phone": "45455555",
+      "associategroup": "level1",
+      "address": "sabeli",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "phone": "454",
+      "associategroup": "level1",
+      "address": "hgggg",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "7",
+      "name": "abhinav",
+      "email": "abhinav@gmail.com",
+      "phone": "9999988",
+      "associategroup": "level1",
+      "address": "delhi",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "10",
+      "name": "sandeep",
+      "email": "sandeep@gmiai.com",
+      "phone": "8877",
+      "associategroup": "level1",
+      "address": "sujanganj",
+      "type": "SUPPLIER",
+      "status": true
+    }
+  ]
+}
